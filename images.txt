@@ -11,10 +11,10 @@
 #zishuo/embyserver
 #alpine
 #harryzhang6/openwrt
-crazygit/lean-openwrt-x86-64
-piaoyizy/openwrt-x86
-sanjusss/aliyun-ddns
-newfutrue/ddns
-chenhw2/aliyun-ddns-cli
-monlor/xiaoya
-oldiy/youtube-dl-webui
+#crazygit/lean-openwrt-x86-64
+#piaoyizy/openwrt-x86
+#sanjusss/aliyun-ddns
+##newfutrue/ddns
+##chenhw2/aliyun-ddns-cli
+##monlor/xiaoya
+##oldiy/youtube-dl-webui
