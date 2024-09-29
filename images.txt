@@ -10,3 +10,4 @@ xiaoyaliu/alist:latest
 ddsderek/xiaoyakeeper
 zishuo/embyserver
 alpine
+openwrt
