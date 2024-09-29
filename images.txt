@@ -18,4 +18,5 @@
 ##chenhw2/aliyun-ddns-cli
 ##monlor/xiaoya
 ##oldiy/youtube-dl-webui
-xiaoyaliu/emby:latest
+#xiaoyaliu/emby:latest
+node
