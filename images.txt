@@ -20,7 +20,13 @@
 ##oldiy/youtube-dl-webui
 #xiaoyaliu/emby:latest
 #node
-debian
-redhat/ubi8
-xtoys/clash
-cloudflare/cloudflared
+#debian
+#redhat/ubi8
+#xtoys/clash
+#cloudflare/cloudflared
+yangzhaofengsteven/aliyun-ddns
+newindia90/youtube
+sparanoid/live-dl
+#从youtube上下载直播
+mauriceo/viewtube
+#ViewTube 是另一种 YouTube 前端。
