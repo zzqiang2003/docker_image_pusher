@@ -7,3 +7,4 @@ xhofe/alist:latest
 python:alpine3.19
 ubuntu
 xiaoyaliu/alist:latest
+PVE 显卡直通
