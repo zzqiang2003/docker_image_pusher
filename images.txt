@@ -19,4 +19,8 @@
 ##monlor/xiaoya
 ##oldiy/youtube-dl-webui
 #xiaoyaliu/emby:latest
-node
+#node
+debian
+redhat/ubi8
+xtoys/clash
+cloudflare/cloudflared
